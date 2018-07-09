@@ -1,0 +1,31 @@
+{ "height":8,
+ "infinite":false,
+ "layers":[
+        {
+         "data":[988, 1202, 988, 1202, 988, 1202, 988, 1202, 1202, 988, 1202, 988, 1202, 988, 1202, 988, 988, 1202, 988, 1202, 988, 1202, 988, 1202, 1202, 988, 1202, 988, 1202, 988, 1202, 988, 988, 1202, 988, 1202, 988, 1202, 988, 1202, 1202, 988, 1202, 988, 1202, 988, 1202, 988, 988, 1202, 988, 1202, 988, 1202, 988, 1202, 1202, 988, 1202, 988, 1202, 988, 1202, 988],
+         "height":8,
+         "name":"bg",
+         "offsetx":10,
+         "offsety":10,
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":8,
+         "x":0,
+         "y":0
+        }],
+ "nextobjectid":1,
+ "orientation":"orthogonal",
+ "renderorder":"right-down",
+ "tiledversion":"1.1.5",
+ "tileheight":16,
+ "tilesets":[
+        {
+         "firstgid":1,
+         "source":"Overworld.tsx"
+        }],
+ "tilewidth":16,
+ "type":"map",
+ "version":1,
+ "width":8
+}
